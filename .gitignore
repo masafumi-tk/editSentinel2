@@ -1,0 +1,19 @@
+# venv周り
+bin
+include
+lib
+pyvenv.cfg
+__pycache__
+
+# テストデータ周り
+/20231118_sentinel2-data
+/old
+*.jp2
+*mp4
+/sentinel_data
+/img
+
+.vscode
+.DS_Store
+
+private_memo.txt
